@@ -16,7 +16,7 @@
     "contributes": {
         "snippets": [
             {
-                "language": "php",
+                "language": "php,blade",
                 "path": "./snippets/snippets.json"
             }
         ]
